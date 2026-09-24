@@ -25,6 +25,64 @@ I learn fastest by taking an idea from **concept → architecture → implementa
 
 ---
 
+## 👨‍💻 About Me
+
+I’m **Md Shabbir Mia**, a Computer Science & Engineering student and hands-on software developer who learns by building complete, technically ambitious systems.
+
+Looking across my repositories, my work is not limited to one technology or one type of application. I’ve explored **AI/ML, computer vision, Android engineering, backend systems, databases, operating-system concepts, web development, cybersecurity-oriented application design, data analytics, and experimental computing projects**.
+
+### 🧠 My Engineering Interests
+
+**Artificial Intelligence & Machine Learning**  
+I’m particularly interested in applying AI to practical systems. My work includes a **deep multimodal hand-gesture recognition project** using an attention-augmented CNN, as well as **WhisperAudit**, an Android application concept that integrates generative AI, speech transcription, structured data extraction, maps grounding, and local/cloud data workflows.
+
+**Computer Vision & Multimodal Computing**  
+The hand-gesture recognition project reflects my interest in combining visual information with modern deep-learning architectures to solve recognition problems.
+
+**Software Architecture & Backend Engineering**  
+I’ve explored larger application architectures through **AuraPay**, which models a payment platform around microservices, transaction orchestration, an immutable double-entry ledger, fraud-risk scoring, PostgreSQL, Kafka, Redis, Docker, and Kubernetes.
+
+**Android Development**  
+My Android projects include **SyncSpace**, a collaboration platform using Kotlin, Jetpack Compose, Material 3, Room/SQLite, messaging, task management, social feeds, and QR-based contact sharing; **TopperTrack**, an academic productivity system; and **WhisperAudit**, an AI-assisted financial/tax logging application.
+
+**Data, Analytics & Intelligent Systems**  
+**Green Computer Lab** combines PHP, MySQL, JavaScript, Python analytics, machine-learning forecasting, optimization, simulation, visualization, and environmental analysis into one system.
+
+**Systems & Concurrency**  
+My **Market Visit Problem** project explores concurrent programming concepts in C using **processes, semaphores, and mutex locks** to model shared inventory and synchronization problems.
+
+**Security & Integrity**  
+My **Fingerprint Voting System** explores voter authentication, SHA-256 hashing, one-person-one-vote enforcement, candidate registration, election control, and live result tracking. It is explicitly a simulation rather than a system using physical fingerprint hardware.
+
+**Web Engineering**  
+I’ve built web applications including an **Event Management** project and a browser-based **Flappy Bird PRO** game. The latter uses HTML5 Canvas, CSS3, JavaScript, Vite, responsive UI, game physics, collision detection, particles, local storage, audio, achievements, rewards, and multiple themes.
+
+**Experimental & Research-Oriented Computing**  
+**Project Aeon** explores DNA-based archival storage by converting digital data into nucleotide sequences and simulating error correction, redundancy, mutation, and recovery using Reed-Solomon coding and Triple Modular Redundancy.
+
+### 🧩 What My Repositories Show
+
+| Area | Evidence in my projects |
+| :--- | :--- |
+| **AI / ML** | Hand-gesture recognition, WhisperAudit AI workflows, Green Lab forecasting |
+| **Computer Vision** | Attention-augmented hand-gesture recognition |
+| **Android** | SyncSpace, TopperTrack, WhisperAudit |
+| **Backend / Distributed Systems** | AuraPay microservices, APIs, transaction and ledger architecture |
+| **Databases** | MySQL, PostgreSQL, Room/SQLite, database-driven applications |
+| **Systems Programming** | C concurrency with processes, semaphores, and mutexes |
+| **Security Concepts** | Hash-based authentication and voting-integrity simulation |
+| **Web Development** | Event Management, Watch Store, Flappy Bird PRO |
+| **Data & Analytics** | Green Computer Lab analytics, forecasting, visualization |
+| **Experimental Computing** | Project Aeon DNA data-storage simulation |
+
+### 🔧 How I Like to Work
+
+I enjoy projects that force me to move across multiple layers of a system — from **data structures and algorithms to databases, APIs, user interfaces, machine-learning models, and deployment architecture**.
+
+Rather than only building small demonstrations, I try to understand **how the individual components connect into a complete product**.
+
+My repositories therefore represent an evolving learning path: from foundational programming and concurrency, through web and database applications, toward **AI, Android, distributed systems, and research-oriented engineering**.
+
 ## 🧭 What I Build
 
 <table>
