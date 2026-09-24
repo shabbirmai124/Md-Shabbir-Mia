@@ -334,6 +334,35 @@ A database-oriented management-system project containing SQL and project reports
 
 ---
 
+---
+
+# 🗂️ Repository Portfolio
+
+A quick map of the public projects visible across my GitHub account:
+
+| Repository | Area |
+| :--- | :--- |
+| **Deep-Multimodal-Hand-Gesture-Recognition-using-Attention-Augmented-CNN** | Deep Learning / Computer Vision |
+| **Green-computer-Lab** | Analytics / ML / Web / Energy Systems |
+| **AuraPay** | Backend / FinTech Architecture |
+| **SyncSpace** | Android / Collaboration |
+| **TopperTrack** | Android / Productivity |
+| **WhisperAudit** | Android / AI / Financial Logging |
+| **The-Unyielding-Engine** | C++ / OpenGL / Graphics |
+| **Project-Aeon-The-Immortal-Data-Protocol** | Data Encoding / Error Correction |
+| **FingerPrintVoting-System** | Python / Authentication Simulation |
+| **Finger_Print_Voting_System** | Python / Voting Simulation |
+| **Market_Visit_Problem** | C / Concurrency |
+| **Watch-Store-Complete-Website** | Web / E-commerce |
+| **flappy-bird-pro.github.io** | Web / Game Development |
+| **Event-Managment** | HTML / CSS / JavaScript |
+| **Gym_management_System** | SQL / Oracle APEX |
+| **Spell-Checker-Analyser-** | C / Text Processing |
+| **Parking-Airnob** | Application Prototype |
+| **Testing-** | Experimental / Sandbox Repository |
+
+> Some repositories are intentionally kept out of this public profile because their visibility is private.
+
 # 📈 GitHub Activity
 
 <div align="center">
